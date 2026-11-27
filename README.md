@@ -108,7 +108,7 @@ The dashboard supports analysis of:
 
 ## Dashboard Preview
 
-![Insurance Dashboard](Screenshots/insurance dashboard powerbi chandoo.png)
+![Insurance Dashboard](https://github.com/Hitgoku/Insurance-Analytics-Dashboard-Power-BI/blob/main/Screenshots/insurance%20dashboard%20powerbi%20chandoo.png?raw=true))
 
 ## Project Files
 - Power BI dashboard (.pbix)
